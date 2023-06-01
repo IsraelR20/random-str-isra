@@ -1,0 +1,24 @@
+{
+  "name": "random-str-isra",
+  "version": "1.0.0",
+  "description": "Random String messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsraelR20/random-str-isra.git"
+  },
+  "keywords": [],
+  "author": "Josue Israel Rojas Vilca <israel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsraelR20/random-str-isra/issues"
+  },
+  "homepage": "https://github.com/IsraelR20/random-str-isra#readme",
+  "bin":{
+    "random-str-isra":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
